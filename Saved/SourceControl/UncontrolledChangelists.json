@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Bilal/Documents/Unreal Projects/ChessV1_0/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Bilal/Documents/Unreal Projects/ChessV1_0/Content/chess/chessBoard.uasset",
+				"C:/Users/Bilal/Documents/Unreal Projects/ChessV1_0/Content/StarterContent/Materials/_Blacl.uasset",
+				"C:/Users/Bilal/Documents/Unreal Projects/ChessV1_0/Content/StarterContent/Materials/M_Basic_Wall_Black.uasset"
+			]
+		}
+	]
+}
