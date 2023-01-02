@@ -2884,3 +2884,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.02-15.00.18:236][258]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.24% of total time (compiled   41 times, average 1.42 sec, max 4.39 sec, min 0.52 sec)
 [2023.01.02-15.00.18:236][258]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 3.79% of total time (compiled   17 times, average 3.07 sec, max 7.07 sec, min 1.94 sec)
 [2023.01.02-15.00.18:236][258]LogShaderCompilers: Display: ================================================
+[2023.01.02-15.21.58:743][377]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/chess/chessBoard.chessBoard
+[2023.01.02-15.21.58:806][377]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.02-15.22.00:745][377]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.01.02-15.22.01:666][377]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004153s (0.927767s overbudget)
